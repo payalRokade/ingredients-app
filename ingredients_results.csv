@@ -1,0 +1,505 @@
+Company Name,Company Description,Sales Markets,Primary Business Activity,Categories,Events,Address,Email,Telephone,Website
+Home,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Suppliers,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Categories,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Events,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+News,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Insights,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Talks,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Reports,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Memberships,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+About,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Finished Products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Health & Wellness,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Delivery Formats,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Operations & Services,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Certifications,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Acidulants,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Anti-caking agents,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Antioxidants,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Colours,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"Emulsifiers, Stabilisers, Thickeners",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flavour Enhancers,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flavourings,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Additives,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Preservatives,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sweeteners,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Algae,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Botanicals,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Carotenoids,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flavonoids,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bioactives Other,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Oligo- and polysaccharides,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sugars,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cereals & Grains,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pulses,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cow Dairy Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Goat Dairy Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Dairy Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dietary fibres,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Prebiotics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Egg Products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fats & Oils - Algae,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fats & Oils - Animal,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fats & Oils - Plant,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fruit,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Nuts & Peanuts,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Seeds,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Vegetables,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fungi & Yeasts,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Microorganisms & Probiotics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Mushrooms,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Herbs,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Spices,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Food Substitute Ingredient Mixtures,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional (formulated) Ingredient Mixtures,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Synbiotics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Amino acids,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Enzymes,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Proteins - Animal,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Proteins - Plant,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Proteins - Other,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Agave syrup,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cane sugar,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Corn syrup,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Honey,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Maple syrup,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Molasses,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Syrups & Others,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Minerals,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Vitamins,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bakery,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Beverages / Juices,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cereal and grain products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Confectionery,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cooking Fats & Oils,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dairy,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Egg products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fruits & Vegetables,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Infant & Baby food,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"Meat, Poultry & Fish",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Nuts & Seeds products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Finished Food Categories,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pet Food,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Plant-based foods,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Prepared foods,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sauces & Seasonings,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sweet & Savoury Spreads,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bee products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Biotic products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dietary supplements,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Energy drinks,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional beverages,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional confectionery,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional food,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional powders,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Meal replacement products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Nutricosmetics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Specialised Finished Products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pet Dietary Supplements,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pharma and OTC products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Protein products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sugar replacers / Sweeteners,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bone & Joint Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cancer Risk Reduction,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cardiovascular Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Children's Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cognitive & Mental Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Digestive Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Eye Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Healthy Ageing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Immune Support,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Men's Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Metabolic Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pet Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Skin Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sleep Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sports Nutrition,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Weight Management,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Women's Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Beverages,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Capsules,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Chewables,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Creams,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Drops,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Effervescent,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Food bars,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Gels,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Granules,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Gummies,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Kernels,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Liquids,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Lozenges,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Oil,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ointments,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Dosage Formats,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pastes,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pearls,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pellets,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Powders,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sachets,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Shots,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sprays,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sticks,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Syrups,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Tablets,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Blanched,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Chunked,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Concentrated,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Diced,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dried - air dried,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dried - freeze dried,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Extracted,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Extruded,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flaked,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Germinated,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ground,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Infused,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Liquid,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Milled,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Physical Formats,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Powdered,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Roasted,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Shelled,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sliced,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Solid,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+3D printing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Analysis/ Testing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Auditing & certifications,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Blending & mixing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bottling,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Certification,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Clinical Trials,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Co-packing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Coating,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Consulting,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Contract manufacturing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Drying,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Electrospinning,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Encapsulating,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Enzymatic processing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Extracting,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Extrusion,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fat structuring,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fermentation,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Filling,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flavour development,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Freeze Drying,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Granulating/ grinding/ milling / mixing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+High pressure processing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Labelling,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Operations & Services,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Packaging,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Packet filling,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pasturising,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Quality assurance,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Saccharification,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Shear cell processing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Spray drying,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sterilisation,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Storage & Logistics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Tabletting,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Toasting / roasting,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ultra-high temperature processing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Allergen-free,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Animal welfare,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+B corporation,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Biodynamic,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fair Trade,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Gluten-free,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Halal,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Health & Safety,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Kosher,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Natural,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Non-GMO,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Organic,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Certifications,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Quality assurance,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+SQF certified,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sustainable,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sustainable Seafood,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Traceable,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Upcycled,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+USDA certified,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Vegan,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Vegetarian,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Finished Products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Health & Wellness,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Delivery Formats,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Operations & Services,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Certifications,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"5,000+Suppliers",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"41,000+Ingredients",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"21,000+Finished Products",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+news1 Oct 2026Cottage cheese alternative made from fermented apricot kernels,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+news1 Oct 2026Cottage cheese alternative made from fermented apricot kernels,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+news1 Oct 2026Cottage cheese alternative made from fermented apricot kernels,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"news30 Sep 2026Reinventing soda: Zero sugar, functional benefits, and new indulgence",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+news29 Sep 2026The £10 ready meal opportunity: UK retail to see premium battle intensify,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+news28 Sep 2026Industry-led accelerator Breakout Wellness UK seeking next big nutrition brand,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sponsored ContentTurning plant potential into food solutions,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sponsored ContentPharmaLinea’s iron supplement delivers improvements in  hemoglobin comparable to ferrous sulfate with fewer side  effectsIron | Minerals,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"Sponsored ContentFucoidan leader reports record productionAlgae | Algae, Botanicals, Carotenoids, Flavonoids | Beverages | Dosage Formats | Capsules | Dosage Formats | Dietary supplements | Specialised Finished Products | Digestive Health | Extracting | Fucoidan | Functional powders | Specialised Finished Products | Healthy Ageing | Immune Support | Nutricosmetics | Specialised Finished Products | Powders | Dosage Formats | Seaweed",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sponsored ContentIndia Honours Ashwagandha with Commemorative  Postal Stamp at WHO Global Summit,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+newsIs creatine going mainstream in food and drink formulation?,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+newsResearchers call for spouted baby food pouches to be classified as drinks,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Finished Products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Health & Wellness,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Delivery Formats,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Operations & Services,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Certifications,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Finished Products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Health & Wellness,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Delivery Formats,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Operations & Services,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Certifications,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Acidulants,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Anti-caking agents,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Antioxidants,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Colours,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"Emulsifiers, Stabilisers, Thickeners",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flavour Enhancers,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flavourings,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Additives,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Preservatives,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sweeteners,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Algae,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Botanicals,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Carotenoids,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flavonoids,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bioactives Other,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Oligo- and polysaccharides,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sugars,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cereals & Grains,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pulses,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cow Dairy Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Goat Dairy Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Dairy Ingredients,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dietary fibres,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Prebiotics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Egg Products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fats & Oils - Algae,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fats & Oils - Animal,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fats & Oils - Plant,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fruit,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Nuts & Peanuts,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Seeds,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Vegetables,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fungi & Yeasts,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Microorganisms & Probiotics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Mushrooms,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Herbs,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Spices,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Food Substitute Ingredient Mixtures,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional (formulated) Ingredient Mixtures,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Synbiotics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Amino acids,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Enzymes,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Proteins - Animal,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Proteins - Plant,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Proteins - Other,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Agave syrup,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cane sugar,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Corn syrup,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Honey,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Maple syrup,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Molasses,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Syrups & Others,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Minerals,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Vitamins,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bakery,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Beverages / Juices,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cereal and grain products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Confectionery,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cooking Fats & Oils,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dairy,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Egg products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fruits & Vegetables,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Infant & Baby food,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+"Meat, Poultry & Fish",N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Nuts & Seeds products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Finished Food Categories,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pet Food,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Plant-based foods,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Prepared foods,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sauces & Seasonings,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sweet & Savoury Spreads,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bee products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Biotic products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dietary supplements,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Energy drinks,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional beverages,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional confectionery,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional food,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Functional powders,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Meal replacement products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Nutricosmetics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Specialised Finished Products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pet Dietary Supplements,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pharma and OTC products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Protein products,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sugar replacers / Sweeteners,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bone & Joint Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cancer Risk Reduction,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cardiovascular Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Children's Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Cognitive & Mental Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Digestive Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Eye Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Healthy Ageing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Immune Support,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Men's Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Metabolic Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pet Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Skin Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sleep Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sports Nutrition,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Weight Management,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Women's Health,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+N/A,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Beverages,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Capsules,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Chewables,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Creams,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Drops,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Effervescent,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Food bars,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Gels,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Granules,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Gummies,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Kernels,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Liquids,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Lozenges,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Oil,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ointments,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Dosage Formats,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pastes,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pearls,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pellets,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Powders,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sachets,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Shots,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sprays,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sticks,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Syrups,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Tablets,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Blanched,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Chunked,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Concentrated,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Diced,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dried - air dried,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Dried - freeze dried,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Extracted,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Extruded,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flaked,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Germinated,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ground,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Infused,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Liquid,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Milled,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Physical Formats,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Powdered,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Roasted,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Shelled,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sliced,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Solid,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+3D printing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Analysis/ Testing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Auditing & certifications,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Blending & mixing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Bottling,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Certification,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Clinical Trials,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Co-packing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Coating,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Consulting,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Contract manufacturing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Drying,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Electrospinning,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Encapsulating,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Enzymatic processing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Extracting,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Extrusion,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fat structuring,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fermentation,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Filling,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Flavour development,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Freeze Drying,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Granulating/ grinding/ milling / mixing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+High pressure processing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Labelling,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Operations & Services,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Packaging,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Packet filling,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Pasturising,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Quality assurance,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Saccharification,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Shear cell processing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Spray drying,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sterilisation,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Storage & Logistics,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Tabletting,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Toasting / roasting,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Ultra-high temperature processing,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Allergen-free,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Animal welfare,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+B corporation,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Biodynamic,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Fair Trade,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Gluten-free,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Halal,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Health & Safety,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Kosher,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Natural,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Non-GMO,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Organic,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Other Certifications,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Quality assurance,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+SQF certified,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sustainable,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Sustainable Seafood,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Traceable,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Upcycled,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+USDA certified,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Vegan,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
+Vegetarian,N/A,Global,Manufacturer,Herbs & Spices,None,N/A,N/A,N/A,N/A
