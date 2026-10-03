@@ -3,7 +3,7 @@
 An interactive Streamlit dashboard built for the Relu Consultancy hiring challenge, featuring cleaned data extracted from IngredientsNetwork.com.
 
 ## 🚀 Live Demo
-* **Live App URL:** [View Dashboard](https://ingredients-app-9yxblaqsvixpiy8qgdmg.streamlit.app)[cite: 8]
+* **Live App URL:** [View Dashboard](https://ingredients-app-9yxtxaqsvikspxiy8qgdmg.streamlit.app/)[cite: 8]
 
 ## 🛠️ Project Features
 * **Data Extraction:** Scraped and structured supplier/ingredient records.
